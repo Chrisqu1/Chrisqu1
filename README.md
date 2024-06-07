@@ -1,4 +1,4 @@
-# ⚡ Christof Quentin
+# Christof Quentin
 
 Hello World 👋
 
